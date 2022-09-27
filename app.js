@@ -29,7 +29,7 @@ const fetchData = async () => {
 
         showProducts(data)
     } catch(error) {
-        console.log(error)
+        console.log(`Error: ` + error)
     }
 }
 
@@ -63,7 +63,7 @@ const setCar = object => {
         price: object.querySelector('p').textContent,
         quantity: 1,
     }
-    console.log(car)
+   
     if (car.hasOwnProperty(product.id)) {
         product.quantity = car[product.id].quantity + 1
     }
