@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Bud Light - 12 Pack",
+        "price": "110",
+        "thumbnail": "https://th.bing.com/th/id/R.cb04111fa0e562e3c6e08481ecd849c1?rik=pTcJI1JImJjo2w&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 2,
+        "title": "XX Lager - 12 Pack",
+        "price": "240",
+        "thumbnail": "https://chedrauimx.vtexassets.com/arquivos/ids/7349822-1600-auto?v=637988541592070000&width=1600&height=auto&aspect=true"
+    },
+    {
+        "id": 3,
+        "title": "XX Ultra Lager - 6 Pack",
+        "price": "110",
+        "thumbnail": "https://chedrauimx.vtexassets.com/arquivos/ids/7349931-1600-auto?v=637988542054630000&width=1600&height=auto&aspect=true"
+    }
+]
