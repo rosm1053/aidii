@@ -28,5 +28,11 @@
         "title": "Corona Extra - 12 Pack",
         "price": "119",
         "thumbnail": "https://www.chevronextramile.com/content/uploads/2021/04/High-Res-PNG-CX-12pk-12oz-Bottles-Right-Facing-800x800.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Takis Fuego",
+        "price": "50",
+        "thumbnail": "https://onixsuper.com/wp-content/uploads/2020/10/7501030424536.jpg"
     }
 ]
