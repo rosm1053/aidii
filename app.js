@@ -152,3 +152,4 @@ const btnAction = e => {
     e.stopPropagation()
 }
 
+//cambio equipo
